@@ -1,0 +1,42 @@
+.container {
+  background-image: linear-gradient(#e2a139, #f9d423);
+  height: 100vh;
+  text-align: center;
+  padding-top: 70px;
+}
+.card-container {
+  background-color: #ffffff;
+  height: 90%;
+  width: 50%;
+  margin-left: 200px;
+  padding: 20px;
+}
+.heading {
+  color: #e2a139;
+}
+.description {
+  font-weight: bold;
+}
+.toss-img {
+  height: 200px;
+  width: 200px;
+}
+.toss-button {
+  color: #e2a139;
+  background-color: #f9d423;
+  width: 100px;
+  margin: 25px;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+  outline: none;
+}
+.span-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.span-item {
+  margin: 20px;
+}
